@@ -168,7 +168,6 @@ body{
 }
 
 .content .card{
-    background-color: rgb(212, 110, 110);
     width: 350px;
     height: 400px;
     border-radius: 8px;
@@ -309,3 +308,4 @@ footer{
     }
 
 }
+
